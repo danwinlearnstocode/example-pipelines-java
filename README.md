@@ -1,3 +1,4 @@
+[![Build Status](https://danwin-devops.visualstudio.com/my-example-app/_apis/build/status%2Fdanwinlearnstocode.example-pipelines-java?branchName=main)](https://danwin-devops.visualstudio.com/my-example-app/_build/latest?definitionId=2&branchName=main)
 
 # Contributing
 
